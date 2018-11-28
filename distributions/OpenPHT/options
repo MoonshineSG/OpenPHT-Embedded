@@ -30,10 +30,10 @@
   MEDIACENTER="openpht"
 
 if [ -z "$OPENPHT_BRANCH" ]; then
-  OPENPHT_BRANCH="openpht-2.0"
+  OPENPHT_BRANCH="main"
 fi
 if [ -z "$OPENPHT_REPO" ]; then
-  OPENPHT_REPO="https://github.com/RasPlex/OpenPHT.git"
+  OPENPHT_REPO="https://github.com/MoonshineSG/OpenPHT.git"
 fi
 
 # Skins to install (Estuary)
